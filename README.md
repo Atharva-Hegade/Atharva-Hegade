@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 👯 I’m looking to collaborate on [Daily Dose of Engineering](https://daily-dose-of-enginn-4pq9.glide.page)
+- 👯 I’m looking to collaborate on [Daily Dose of Engineering](https://daily-dose-of-engineering.glide.page/)
 
 - 💬 Ask me about **UI , Cloud**
 

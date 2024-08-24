@@ -3,7 +3,7 @@
 <h3 align="center">I am Frontend Developer and Cloud Computing Enthusiast</h3>
 <img width"400" align="right" src="https://tenor.com/view/code-coding-computer-gif-19684211" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-hegade&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-hegade" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=atharva-hegade&label=Profile%20views&color=0e75b6&style=flat](https://github.com/rudrabarad/Gifs)" alt="coding" /> </p>
 
 - 🔭 I’m currently working on **FarmTech**
 

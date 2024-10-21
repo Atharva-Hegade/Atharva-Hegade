@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-hegade&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-hegade" /> </p>
 
-- 🔭 I’m currently working on **FarmTech**
+- 🔭 I’m currently working on **Rental Application**
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on [Daily Dose of Engineering](https://daily-dose-of-engineering.glide.page/)
 

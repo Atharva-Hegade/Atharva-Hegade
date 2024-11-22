@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-hegade&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-hegade" /> </p>
 
-- 🔭 I’m currently working on **Rental Application**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/atharvahegade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvahegade" height="30" width="40" /></a>
 <a href="https://instagram.com/atharva_hegade_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvahegade007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/atharvahegade007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atharvahegade007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/atharvahejn19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvahejn19" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/atharvahegade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvahejn19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

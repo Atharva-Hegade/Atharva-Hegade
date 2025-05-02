@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Daily Dose of Engineering](https://daily-dose-of-engineering.glide.page/)
 
-- 💬 Ask me about **UI , Cloud**
+- 💬 Ask me about **WEB DEV**
 
 - 📫 How to reach me **atharvahegade007@gmail.com**
 

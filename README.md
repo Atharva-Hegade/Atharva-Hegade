@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Atharva Hegade</h1>
 <h3 align="center">React Native | React.js | Node.js Developer
-Building Cross-Platform Mobile Apps
+<br>Building Cross-Platform Mobile Apps
 </h3>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 

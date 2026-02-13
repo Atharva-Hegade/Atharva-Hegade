@@ -58,5 +58,6 @@ Portfolio: https://atharvahegade.netlify.app
 ---
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva-hegade&show_icons=true&theme=tokyonight&cache_seconds=1800)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-hegade&layout=compact&theme=tokyonight" />
 </p>
+

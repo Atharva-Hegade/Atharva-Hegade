@@ -1,65 +1,62 @@
-<h1 align="center">Hi 👋, I'm Atharva Hegade</h1>
-<h3 align="center">
-React Native | React.js | Node.js Developer  
-Building Cross-Platform Mobile & Full-Stack Applications
-</h3>
+<h1 align="center">Hey 👋 I'm Atharva Hegade</h1>
+<h3 align="center">React Native • React.js • Node.js Developer</h3>
 
 <p align="center">
-Focused on creating scalable mobile apps using React Native, Expo, and modern backend architectures.
+🚀 Building Cross-Platform Mobile Apps & Scalable Full-Stack Products
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=atharva-hegade&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🚀 Current Focus
-- 📱 Building **React Native Mobile Applications**
-- 🌐 Developing **Full-Stack MERN Projects**
-- ⚡ Learning **Advanced Mobile Performance & API Integration**
+## ⚡ About Me
+- 📱 React Native Developer building **cross-platform mobile apps**
+- 🌐 Full-stack developer working with **MERN & REST APIs**
+- 🧠 Currently exploring **mobile performance optimization & scalable backend systems**
+- 🎯 Goal: Build **production-ready mobile products used by thousands**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Mobile Development**
-- React Native
-- Expo
-- JavaScript / TypeScript
+### Mobile
+React Native • Expo • JavaScript • TypeScript
 
-**Frontend**
-- React.js
-- Tailwind CSS
-- HTML5, CSS3
+### Frontend
+React.js • Tailwind CSS • HTML5 • CSS3
 
-**Backend**
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
+### Backend
+Node.js • Express.js • NestJS • REST APIs
 
-**Database**
-- MongoDB
-- PostgreSQL
+### Database
+MongoDB • PostgreSQL
 
-**Tools**
-- Git & GitHub
-- Figma
-- VS Code
+### Tools
+Git • GitHub • Figma • VS Code
 
 ---
 
-### 📌 Featured Projects
-- **QuickTasks Mobile App** – Cross-platform task manager built with React Native & Expo  
-- **Expense Tracker App** – Mobile expense tracking application with real-time calculations  
-- **Salon Landing Website** – Modern responsive UI using React & Tailwind
+## 🚀 Featured Projects
+📌 **QuickTasks Mobile App**  
+Cross-platform task manager built using React Native & Expo
+
+📌 **Expense Tracker Mobile App**  
+Mobile expense tracking app with real-time calculation & state management
+
+📌 **Salon Landing Website**  
+Modern responsive React + Tailwind production UI
 
 ---
 
-### 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/atharvahegade
-- Email: atharvahegade007@gmail.com
-- Portfolio: (Add your portfolio link)
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/atharvahegade  
+Email: atharvahegade007@gmail.com  
+Portfolio: https://atharvahegade.netlify.app
 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atharva-hegade&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=atharva-hegade&show_icons=true&theme=tokyonight" />
 </p>
